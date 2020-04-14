@@ -1816,6 +1816,17 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-rW6dqIPfNK .mbr-section-title {
+  text-align: center;
+}
+.cid-rW6dqIPfNK .mbr-text,
+.cid-rW6dqIPfNK .mbr-section-btn {
+  text-align: left;
+}
+.cid-rW6dqIPfNK .mbr-text,
+.cid-rW6dqIPfNK .mbr-section-btn P {
+  color: #ffffff;
+}
 .cid-rW6gNlNSVC {
   padding-top: 90px;
   padding-bottom: 90px;

@@ -1871,6 +1871,9 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #232323) !important;
 }
+.cid-rYHv5Rylk2 {
+  background: linear-gradient(45deg, #55b4d4, #073b4c);
+}
 .cid-rW6dqIPfNK {
   padding-top: 90px;
   padding-bottom: 90px;
